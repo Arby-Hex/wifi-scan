@@ -3,8 +3,9 @@ Kamu Dapat Melihat Informasi Wifi Disekitar Kamu Walaupun Perangkat Kamu Tidak T
 Tool Ini Dapat Scan Lebih Dari 10+ Wifi Yang Ada Disekitar Mu
 
 # Syarat Syarat Menggunakan
-• Termux Dari Website F-droid
-• Termux-api Dari Website F-droid
+
+> Termux Dari Website F-droid
+> Termux-api Dari Website F-droid
 
 # Instalasi
 ```
